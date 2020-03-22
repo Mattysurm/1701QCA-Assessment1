@@ -13,7 +13,7 @@ Input, Output Experiment: Pressure sensor and LED's
 #### Photo of completed project ####
 
 ![Image](front.jpg)
-![Image](code1.jpg)
+![Image](code12.jpg)
 ![Image](code2.jpg)
 
 
