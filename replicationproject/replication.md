@@ -14,7 +14,7 @@ Banana Kyboard
 Tomato Piano
 http://www.seeedstudio.com/blog/2016/09/19/respeaker-tomato-piano-with-arduino/
 
-![Image](missingimage.png)
+![Image](tomato.jpg)
 
 This project is very similar to the Banana keyboard as it uses tomatoes to replicate a piano. The project works by having a total of 8 tomatoes the 8 touch sensors on ReSpeaker. Each cherry tomato represents a key to the music note, starting from the ‘do’ to the ‘ti’. While this is very similar to the banana keyboard project it works on a larger scale and uses the arduino micro computer instead of the microbit. Having 8 tomatoes hooked up with each representing different tones also allows for the user to play mussic with the project too, something that could be considered for the replication. By having each piece of fruit represent a different tone the project could be made more complex rather than the simple original version and would allow for far more interaction. The project can be done with any object that conducts electricity too so you could use a variety of different fruits, or even other objects such as spoons, coins or conductive ink.
 
