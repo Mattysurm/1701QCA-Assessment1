@@ -13,9 +13,7 @@ Input, Output Experiment: Pressure sensor and LED's
 #### Photo of completed project ####
 
 ![Image](code1.jpg)
-![Image](code2.jpg)
-![Image](frontview.jpg)
-![Image](topview.jpg)
+
 
 Here you can see the both the finalised experiment as well as the code completed on the microbit website.
 
