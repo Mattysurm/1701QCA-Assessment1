@@ -32,7 +32,8 @@ LED Sound
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](experiment2.jpg)
+![Image](ex2.jpg)
+![Image](code2.jpg)
 
 (Insert a caption here)
 
