@@ -33,7 +33,7 @@ https://medium.com/@oskarlindskog/10-sound-installations-that-inspire-and-create
 Lenses is an interactive insallation designed by the New York creative agency "Hush". The project is made up of various shaped objects that when bent, moved and changed  the colors and angles of the light trigger sound changes. This project uses light sensors and changes upon the colour of refracted light to create different sounds making each interaction different from the last. I found this project interesting because it shows what can be accomplished with a very simple idea, the agency have created a very interactive project with bare bones technology done well and I think this is something that can be learned from. I feel this piece also had a soft spot in my heart beacuse I enjoy intallations of this kind because they make an exhibition feel more intimate with each member of the crowd being able to have their own interaction with the project. Creating interactive pieces such as Lenses is something I could really see myself doing in the future.
 
 ### Related project 4 ###
-Lenses
+Lines
 https://www.youtube.com/watch?v=hP36xoPXDnM
 ![Image](lines.jpg)
 
