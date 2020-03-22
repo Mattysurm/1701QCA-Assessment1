@@ -18,12 +18,19 @@ http://www.seeedstudio.com/blog/2016/09/19/respeaker-tomato-piano-with-arduino/
 
 This project is very similar to the Banana keyboard as it uses tomatoes to replicate a piano. The project works by having a total of 8 tomatoes the 8 touch sensors on ReSpeaker. Each cherry tomato represents a key to the music note, starting from the ‘do’ to the ‘ti’. While this is very similar to the banana keyboard project it works on a larger scale and uses the arduino micro computer instead of the microbit. Having 8 tomatoes hooked up with each representing different tones also allows for the user to play mussic with the project too, something that could be considered for the replication. By having each piece of fruit represent a different tone the project could be made more complex rather than the simple original version and would allow for far more interaction. The project can be done with any object that conducts electricity too so you could use a variety of different fruits, or even other objects such as spoons, coins or conductive ink.
 
-### Related projec 2 ###
+### Related project 2 ###
 The world’s deepest bin
 https://medium.com/@oskarlindskog/10-sound-installations-that-inspire-and-create-connection-73eabd5ce075
 
 ![Image](deepest_bin.jpg)
 This installation was developed to get people putting more rubbish into bins and uses a basic sensor and speaker makeup. The idea is that when rubbish is put into the bin the sensor goes off playing audio through the speaker. The audio is of an object falling and eventually hitting the bottom of the bin, making it seem as though the piece of rubbish was falling deeper and deeper into the bin. This project is a fun idea and is doing some good. The premise is simple yet effective and some of the ideas could be applied to future projects.
+
+### Related project 3 ###
+Lenses
+https://medium.com/@oskarlindskog/10-sound-installations-that-inspire-and-create-connection-73eabd5ce075
+![Image](lens.jpg)
+
+Lenses is an interactive insallation designed by the New York creative agency "Hush". The project is made up of various shaped objects that when bent, moved and changed  the colors and angles of the light trigger sound changes. This project uses light sensors and changes upon the colour of refracted light to create different sounds making each interaction different from the last. I found this project interesting because it shows what can be accomplished with a very simple idea, the agency have created a very interactive project with bare bones technology done well and I think this is something that can be learned from. I feel this piece also had a soft spot in my heart beacuse I enjoy intallations of this kind because they make an exhibition feel more intimate with each member of the crowd being able to have their own interaction with the project. Creating interactive pieces such as Lenses is something I could really see myself doing in the future.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
