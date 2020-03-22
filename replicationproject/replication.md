@@ -39,6 +39,19 @@ https://www.youtube.com/watch?v=hP36xoPXDnM
 
 Lines is an interactive sound instllation created by Swedish composer Anders Lind in 2016. Within the project lines are attached to the wall, on the floor and hanging from the ceiling in combination with sensors and electronics creating three musical instruments. Lines wanted to form a new way of exploring music through an interctive room. The project uses simple technology effectively creating a very interesting look into muscial exploration. On the surface the idea seems very simple but the work put in behind the scenes and the intricacies of the sounds matching with colours make it a very complex exhibition. Like many of the previous examples I have chosen to include Lines is extremely effective in creating an interactive fun expierence and I find this to be inspiring as an artist myself and makes me want to explore this avenue of design more and more.
 
+### Related project 5 ###
+Cousteau
+https://www.arjodesign.com/#/cousteau/
+![Image](cousteau.jpeg)
+
+Cousteau is a kinetic interactive sculpture. The project was a means of using simple movements to suggest that technology might possess its own life force. "Through a network of sensors, the sculpture monitors its surroundings, reacting to ambient activity, and a user’s proximity."(ArjoDesign 2019) The project itself is not really a sound installation nor does it reallt have anything to do with the banana keyboard however, I was drawn to the project. In a way I do see it as relating audio-wise because the servo-motors of the piece create this loud but soothing noise, almost like a large swarm of bugs which I found very interesting. I feel it added a whole new layer of life to the piece as opposed to if it were operating the same in complete silence. I find the idea of ambient noise being created on a large scale like within this project, other examples similar are machines making sounds similar to that of rain falling. I think it's just something about hearing such a natural sound coming from machines that is very strange.
+
+### Related project 6 ###
+TOTALLY AMAZING MUTANT EARS
+https://www.arjodesign.com/#/ears/
+![Image](ears.jpeg)
+Totally Amazing Mutant Ears are sound-collecting headphones that turn every day sounds into completely new and unique aural experiences for the user. The sounds are made via mixing of four different digital distortion modes, these include: reverb, echo, metallic, pitch-shifting effect. The user no longer hears everyday sounds but is treated to hearing things out of this world as what they know is warped and changed. The idea of the project is to give the user the sense that they were dealing with martians or were on another planet or underwater. The piece is made of headphones, a digital sound processor and microphone all combined with added plastic parts to keep it all together. Such a fun idea could be marketed as a childrens toy or created on a large scale of an exhibition installation.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
