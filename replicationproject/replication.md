@@ -22,7 +22,7 @@ This project is very similar to the Banana keyboard as it uses tomatoes to repli
 The world’s deepest bin
 https://medium.com/@oskarlindskog/10-sound-installations-that-inspire-and-create-connection-73eabd5ce075
 
-![Image](missingimage.png)
+![Image](deepest_bin.jpg)
 This installation was developed to get people putting more rubbish into bins and uses a basic sensor and speaker makeup. The idea is that when rubbish is put into the bin the sensor goes off playing audio through the speaker. The audio is of an object falling and eventually hitting the bottom of the bin, making it seem as though the piece of rubbish was falling deeper and deeper into the bin. This project is a fun idea and is doing some good. The premise is simple yet effective and some of the ideas could be applied to future projects.
 
 ## Reading reflections ##
