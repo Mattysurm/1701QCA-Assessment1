@@ -32,6 +32,13 @@ https://medium.com/@oskarlindskog/10-sound-installations-that-inspire-and-create
 
 Lenses is an interactive insallation designed by the New York creative agency "Hush". The project is made up of various shaped objects that when bent, moved and changed  the colors and angles of the light trigger sound changes. This project uses light sensors and changes upon the colour of refracted light to create different sounds making each interaction different from the last. I found this project interesting because it shows what can be accomplished with a very simple idea, the agency have created a very interactive project with bare bones technology done well and I think this is something that can be learned from. I feel this piece also had a soft spot in my heart beacuse I enjoy intallations of this kind because they make an exhibition feel more intimate with each member of the crowd being able to have their own interaction with the project. Creating interactive pieces such as Lenses is something I could really see myself doing in the future.
 
+### Related project 4 ###
+Lenses
+https://www.youtube.com/watch?v=hP36xoPXDnM
+![Image](lines.jpg)
+
+Lines is an interactive sound instllation created by Swedish composer Anders Lind in 2016. Within the project lines are attached to the wall, on the floor and hanging from the ceiling in combination with sensors and electronics creating three musical instruments. Lines wanted to form a new way of exploring music through an interctive room. The project uses simple technology effectively creating a very interesting look into muscial exploration. On the surface the idea seems very simple but the work put in behind the scenes and the intricacies of the sounds matching with colours make it a very complex exhibition. Like many of the previous examples I have chosen to include Lines is extremely effective in creating an interactive fun expierence and I find this to be inspiring as an artist myself and makes me want to explore this avenue of design more and more.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
