@@ -12,10 +12,10 @@ Input, Output Experiment: Pressure sensor and LED's
 
 #### Photo of completed project ####
 
-![Image](code1.heic)
-![Image](code2.heic)
-![Image](frontview.heic)
-![Image](topview.heic)
+![Image](code1.HEIC)
+![Image](code2.HEIC)
+![Image](frontview.HEIC)
+![Image](topview.HEIC)
 
 Here you can see the both the finalised experiment as well as the code completed on the microbit website.
 
