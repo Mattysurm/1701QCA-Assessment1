@@ -25,12 +25,12 @@ This experiment could be the basis of a real world application such as an art in
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+LED Sound 
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment2.jpg)
 
 (Insert a caption here)
 
