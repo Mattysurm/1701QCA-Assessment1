@@ -85,7 +85,7 @@ Piezo Buzzer
 
 #### Photo of completed project ####
 
-![Image](ex5.jpg)
+![Image](ex5.png)
 ![Image](code5.jpg)
 
 Pictured here is the piezo buzzer experiment and the corresponding coding 
