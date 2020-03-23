@@ -62,35 +62,37 @@ This experiment could be the basis of a real world application such as the proje
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Buttons
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
 
-(Insert a caption here)
+![Image](ex4.jpg)
+![Image](code4.jpg)
+
+Pictured here is the button experiment and the corresponding coding 
+
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use and code buttons with the BBC microbit. This was one of the first experiments in the booklet and gives a basic description of how the experiment and code correlate as well as a description of how the circuit works. These easier experiments were a nice way to get myself used to building with the microbit as well as developing an understanding of exactly what is happening and why. I feel more comfortable completing these earlier experiments at this point because I know what I'm doing and understand the concepts. Something I didn't expect myself to be learning but am quite greatful I have this knowledge 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as on a controller with each button having different corresponding lights or even taking it a step further and having sounds. The first thing that came to mind with the button was something like a buzzer from a game show, where when hit the button would make a loud noise indicating the player wanted to answer. This could easily use lights as well combining the two ideas. 
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Piezo Buzzer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex5.jpg)
+![Image](code5.jpg)
 
-(Insert a caption here)
+Pictured here is the piezo buzzer experiment and the corresponding coding 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to control the tone of a piezo buzzer and use the music blocks more. The experiment consists of wiring up a piezo buzzer to ground and pin zero, each button on the microbit will play a corresponding tone. This taught me how I could use the buzzer for musical application or purely for applying sound to the action of pressing various buttons. This idea could come into use with other concepts like creating a game with the microbit and having the buttons play various noises for the actions. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as coding sounds for toys such as sound boards for toddlers. Each button is coded to make a corresponding sound. In this example you may press a button with a picture of a cow and the button would make a moo noise to indicate that is what the cow does. Toys like this use a similar but more complex version of this simple experiment. Novelty toys such as "NO" buttons follow the same logic, making noise when the button is pressed. You could add depth to this with a pressure sensor and have the sensor play different noises depending upon how much pressure is applied. I feel this could be accomplished with the knowledge I have now as 2 experiments I have completed have taught me these skills.
 
