@@ -67,8 +67,8 @@ Buttons
 #### Photo of completed project ####
 
 
-![Image](ex4.jpg)
-![Image](code4.jpg)
+![Image](button.png)
+![Image](code4.png)
 
 Pictured here is the button experiment and the corresponding coding 
 
