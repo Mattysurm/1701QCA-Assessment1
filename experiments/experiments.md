@@ -35,30 +35,30 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 ![Image](ex2.jpg)
 ![Image](code2.jpg)
 
-(Insert a caption here)
+Here you can see the completed work as well as the foundation code for it to work 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to connect both a LED and speaker up together. The project was similar in nature to the previous with an LED being set up and coded, this however, had a small speaker hooked up that would play sound between the breaks in the light. The project was easy enough to build. I initially had issues getting the speaker to work but I had simply hooked the wrong pins up. With the small change the piece worked perfectly. The project started as the LED so I coded the first sequence to be a three second hold on when the microbit was turned on and then flash on for one second and off for one second. The next step was coding the speaker to play a note whenever the light was off. Again, this was easy enough and the only issues I encountered were in regard to the pins and breadboard but I am slowly becoming more comfortable with using the microbit kit and making these kinds of experiments. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as setting up a telegraph sounder to send morse code between people. This could be a fun way to help learn coding and get the machine to transmit messages to be deciphered. Another example of how the technology could be used is in marketing. Having a large scale version of something like this could display images or text with LED lights and have sound to accompany these putting messages out for an audience. 
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Motor Fan
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](ex3.jpg)
+![Image](code3.jpg)
 
-(Insert a caption here)
+Pictured here is the fan experiment and the corresponding coding 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use and code a motor with a fan. The concept was perfect for me as I wanted to use something like this in my own project towards the end of the trimester. The experiment consists of a motor with a fan attached hooked up to the microbit. The coding tells the fan to alternate between it's fastest speed and slowest speed. I want to use this motor setup with my final drawing machine, having a 3D printed piece in place of the fan and a knob to change the speed. The idea is based upon a rotarty tattoo machine however, instead of needles the machine will have a pen in place being pushed up and down to create dots. This would make it easier to complete stippled works comprising only of dots, a style I myself will often use for drawing. This simple experiment holds a lot of weight in my studies of micro computers and I will be choosing to work more with this piece of equipment in the coming weeks. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as the project I have spoken above, which I plan on making. Another example could be a mass production of these motor fans for an audio installation. The class did not get to complete this task however, my group did so I know how this piece works. A lamp shade is put over the fan as well as a cup and ping pong ball which allows for the ball to move around creating noises against the shade. When done on a large scale the experiment can make large and beautiful or annoying amounts of sound depening upon how you hear it.
 
 ### Experiment name ###
 
