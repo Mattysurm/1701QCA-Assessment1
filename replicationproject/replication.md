@@ -99,17 +99,27 @@ retail store in order to rework the store for the best possible outcome.  *
 
 ![Image](flow.png)
 
-## Process documentation
+## Process documentation ##
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+Starting off I didn't really know where to go with this project, after watching the initial piece on how the experiment worked on the microbit website I was still quite lost in where to begin because they had been using crocodile clips not pins and a breadboard. This however, was easy enough to actually figure out as I had done pretty much all the work required in my previous experiments weeks before. The first step would be to hook up the speaker to the breadboard so that whatever coded sound for the fruit would be played and heard. So this is where I began. Easy enough, just pinning the speaker to ground and pin zero. The next step was figuring out how I would work the fruit. Again, this was easy enough in the end. I had begun to watch some more videos online of the experiment and all worked in the exact same way. Connecting one piece of fruit to ground to be held (completing the circuit) and then connecting other pieces of fruit to the various pins on the micro computer. So I did the same thing. Funnily enough the first try I got it. This is where the code came into play the first itiration of code I played with was simply having on P1 or P2 pressed a different note playing. This worked with the first try so it was onto something a little harder. The new code would have a note play on repeat for 4 times changing the sound from 50 to -50 between the pins. In doing this the sounds will play differently and make each piece of fruit play a different tunes from one another. The idea behind this is that the tone will play ascending on one banana and descending on the other. Once the code was finished it was applied to the microbit and tested. The code worked with each banana playing a different tone. 
 
-*This should have quite a lot of information!*
+![Image](mic.png)
+Here is the inital concept sketch I had drawn once I understood exactly what I had to do. Pictured within is each element such as the piece of fruit that would need to be connected to ground to ensure that the circuit was complete, the bananas that would be playing musical tones for te keybaord, and finally the speaker that would be pinned up to the breadboard in order to hear what was being played. I feel that by first doing this sketch I was better able to understand what I was going to build, being someone who likes using a pen and paper as their prefered medium it always seems more comfortable doing things this way first and then going into the unknown. 
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+*https://www.youtube.com/watch?v=P91xcYScrMs*
+*This was a fun video that helped me out during the initial build as it showed other various ways this simple idea of using fruit or other various objects to complete a circuit coukd be used. Within the video the idea is shown to be used to simulate a space bar, arcade game machine controls and of course the banana keyboard. These were all jsut fun ways to explain the same premise of completing a circuit but allowed for me to think about other ways I could use the same idea in the future.*
 
-![Image](flow.png)
+![Image](music.png)
+Here you can see the initial code used for the BBC microbit. It simply tells the computer that when pin1 is pressed that it should play the tone middle c for 1/4 beats. This was a good starting point for my coding because I would be able to tell quite easily if it was working or not, the first attempt I had the circuit completed and the tone played once I had pressed the banana. I feel by starting with such a simple code it allowed me to feel confident in my ability and made me feel as though I could complete this task without any help. In the end this is exactly what I ended up doing.
 
-*Include screenshots of the code you have used.*
+![Image](keys.png)
+This displays the second set of code completed to be used with the banana keyboard and included the second pin. The general idea was that by increasing and decreasing the sounds tone, it would play in ascending and descending order making each banana very easy to differentiate.
+
+
+
+
+
+
 
 ## Project outcome ##
 
