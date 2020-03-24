@@ -99,7 +99,7 @@ retail store in order to rework the store for the best possible outcome.*
 
 ![Image](flow.png)
 
-Here the interaction flow of the project can be seen. The battery pack powers the microbit which is connected 
+Here the interaction flow of the project can be seen. The battery pack powers the microbit which is connected to our speaker. The speaker projects whatever tones are coded for the bananas. The two bananas are hooked up to the microbit as well as the apple as our ground fruit. When the apple is picked up and one of the two bananas are pressed the circuit is completed making the coded tone play through the speaker 
 
 ## Process documentation ##
 
@@ -143,9 +143,6 @@ The product is as the name would imply bananas that make sound. There are two ba
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 ![Image](ban2.png)
 ![Image](ban3.png)
-
-![Image](missingimage.png)
-
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
