@@ -86,7 +86,7 @@ Signifiers were also explained, from my understanding these are the everyday mar
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Prior to reading the piece I was starting to get a grasp on these basic concepts, slowly but surely I was beginning to understand more and more to do with making interactive media, and what exactly this would do. This reading shows exactly what is possible with this knowledge and how the use of basic code knowledge combined with arduino can produce useful technology such as the example used within the text that captures anonymous movement data from patrons visiting a small
-retail store in order to rework the store for the best possible outcome.  *
+retail store in order to rework the store for the best possible outcome.*
 
 *What I learned: This reading taught me that the things we are currently learning can have very interesting real world integration, the example the reading uses really interested me because it serves a very neccessary need. The basic idea behind the project was to design a product with arduino that could track patrons movements and allow the owners of the store to see where people would be moving to and looking most. This would allow them to change where products are placed and the stores general layout to allow for the best amount of sales. This idea works very well and it's amazing that a product can be developed and coded with arduino micro-computers to do so. It is things like this that really caputre my interest because they have a real world application, a lot of the expereiments and other smaller works done in the microbit booklet have very little application. I hope to begin moving towards working on projects like this and starting to develop more of an understanding of the micro-computer and how I can begin creating more complex projects with the technology.*
 
@@ -123,36 +123,52 @@ This displays the second set of code completed to be used with the banana keyboa
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
 Banana Keyboard
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The product is as the name would imply bananas that make sound. There are two bananas hooked up to a BBC Microbit as well as an apple these pieces of fruit are all part of a circuit. When the apple is picked up and the banana is touched it was make a small tune in either ascending or descending order. This piece is simply a novelty and shows people what can be built with the BBC Microbit
 
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](ban1.png)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+![Image](ban2.png)
+![Image](ban3.png)
 
 ![Image](missingimage.png)
 
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+I feel quite happy with the final outcome of this project. Having gone into it with no prior knowledge I did relatively well and encountered very little issues. The task at first seemed quite scary to be but by taking it on little by little I feel that I was able to slowly build myself up. I'm feeling much more confident in my new found abilities to work with micro-computers and I'm keen to start building more complex projects.
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+The skills that I found to be useful was to break up the task into smaller bits. Going head on into something I had no knowledge on would have ended in complete distater I feel but by breaking the task up into manageable bite sized pieces I feel that I was able to complete the work in a more productive way. I also found that research was one of the biggest helpers in regard to learning more about the microbit, reading through the included booklet and completing the experiments helped me get more of an understanding of exactly what was going on with whatever I was aiming to complete. 
 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+Coming to the end of this project I have been through a lot of research in regard to coming to a final piece. Majority of this research came from the microbit site or various videos. The course readings also helped give a lot of insight into how to go about things.
+References
+2020. Banana Keyboard From MIT. [video] Available at: <https://www.youtube.com/watch?v=P91xcYScrMs> [Accessed 16 March 2020].
+
+Microsoft MakeCode. 2020. Make. [online] Available at: <https://makecode.microbit.org/projects/banana-keyboard/make> [Accessed 16 March 2020].
+
+Norman, D., n.d. The Design Of Everyday Things.
+
+Saffer, D., 2020. Designing Microinteractions. Microinteractions as a Philosophy, p.Chapter 1.
+
+Sullivan, S., 2020. Prototyping Interactive Objects. pp.1-12.
+
+Technology Will Save Us. 2020. BBC Micro:Bit | Touch Arpeggiator | Free Platform For Coding, Making And Inventing | Make | Tech Will Save Us. [online] Available at: <https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator> [Accessed 16 March 2020].
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+An extension of this project I would love to try out is the human synth, where instead of bananas the circuit is completely made up of people with each person producing a different sound. This seems like even more of a novelty project than the banana keyboard but works in the same way. The project would make for a fun way to give people an introcution to how a corcuit works and basic BBC Microbit coding. There is a possibility I may in fact try this in my own time to get more of an in depth knowledge of the microbit and have some fun. There are a wide variety of similar expereiments like those listed in the MIT video, all would be a fun way to keep playing aorund with the microbit and become more expereinced with building. 
