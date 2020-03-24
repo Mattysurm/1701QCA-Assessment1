@@ -97,7 +97,7 @@ retail store in order to rework the store for the best possible outcome.  *
 
 ## Interaction flowchart ##
 
-![Image](missingimage.png)
+![Image](flow.png)
 
 ## Process documentation
 
@@ -107,7 +107,7 @@ retail store in order to rework the store for the best possible outcome.  *
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+![Image](flow.png)
 
 *Include screenshots of the code you have used.*
 
@@ -116,7 +116,7 @@ retail store in order to rework the store for the best possible outcome.  *
 *Complete the following information.*
 
 ### Project title ###
-Bananna Keyboard
+Banana Keyboard
 
 ### Project description ###
 
