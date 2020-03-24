@@ -8,7 +8,6 @@
 Banana Kyboard
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Tomato Piano
@@ -80,23 +79,23 @@ Signifiers were also explained, from my understanding these are the everyday mar
 
 *What I learned: What I learned from this reading is exactly what I had guessed microinteractions to be. Microinteractions are acontained product moment that revolves around a single use case. They are a tiny piece of functionality that only does one thing for the product, micro interactions could power the device as a whole or exist along other software that allow them to function. The best way to explain a microinteraction is that they exist to make the device feel engaging and welcoming not confusing the user. They almost exist to make the device more human and ensure we have the easiest time possible using it. The reading uses the iPhone's silence button as a very good example of a microinteraction and how it works. The silence button on your phone does not silence the sounds that users have specifically asked for, only those they have not such as text messages, incoming phone calls. This a great example of a microinteraction, there is a reason the function is designed to be this way. Think about if the phone completely silenced everything when the mode was on. You would be sleeping, through alarms constantly and the phone would become a glorified paper weight with the silence mode on because you wouldn't hear a single beep from it. Microinteractions exist to give us feedback, the good bad and everything between. They exist to make the users life easier. However, these interactions must address 3 fundamental things: What might happen if an action will be taken, What is happening and finally what happened or showing the confirmation or a result of a user’s action.  *
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to learn more about what makes these functions work, for example the silence button. I would be interested to see how much work and coding goes into doing such a simple yet complex task. The idea of microinteractions is something I had never considered but have now started noticing with everything I use on a day to day basis.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: This reading could apply to the project I am working on at the moment as I could now consider the microinteractions in regard to the banana keybaord. An idea of this could be adding an LED to each piece of fruit that would light up when the circuit is complete and the sound is made, in doing this the project gains another way of showing that the task has been complete by not just playing the noise but having an accompanying light. By setting this up those with poor hearing or deaf could still know that the task is being completed because the light is displaying on touch. It is the small interations such as this that make the difference between a good and bad design. These interactions can be the difference between a good and bad design*
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Prior to reading the piece I was starting to get a grasp on these basic concepts, slowly but surely I was beginning to understand more and more to do with making interactive media, and what exactly this would do. This reading shows exactly what is possible with this knowledge and how the use of basic code knowledge combined with arduino can produce useful technology such as the example used within the text that captures anonymous movement data from patrons visiting a small
+retail store in order to rework the store for the best possible outcome.  *
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: This reading taught me that the things we are currently learning can have very interesting real world integration, the example the reading uses really interested me because it serves a very neccessary need. The basic idea behind the project was to design a product with arduino that could track patrons movements and allow the owners of the store to see where people would be moving to and looking most. This would allow them to change where products are placed and the stores general layout to allow for the best amount of sales. This idea works very well and it's amazing that a product can be developed and coded with arduino micro-computers to do so. It is things like this that really caputre my interest because they have a real world application, a lot of the expereiments and other smaller works done in the microbit booklet have very little application. I hope to begin moving towards working on projects like this and starting to develop more of an understanding of the micro-computer and how I can begin creating more complex projects with the technology.*
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: I would like to learn more about how to begin coding harder concepts like this as well as using more complex pieces on the BBC Microbit. Now that I am starting to get a better understanding of these concepts I am beginning to feel more comfortable moving onto tasks like this.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: This reading is direclty linked to this replication task as we are building on the microbit much like the reading explains building with arduino. Both micro-computers are very similar meaning that similar projects can be built on both very easily. There are a variety of videos online of people completing the banana keyboard with arduino or makey makey micro-computers meaning that once you have the knowledge of how to use one you can apply this knowledge to other products.*
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](missingimage.png)
 
@@ -117,6 +116,7 @@ Signifiers were also explained, from my understanding these are the everyday mar
 *Complete the following information.*
 
 ### Project title ###
+Bananna Keyboard
 
 ### Project description ###
 
