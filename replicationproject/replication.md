@@ -156,7 +156,8 @@ The skills that I found to be useful was to break up the task into smaller bits.
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 Coming to the end of this project I have been through a lot of research in regard to coming to a final piece. Majority of this research came from the microbit site or various videos. The course readings also helped give a lot of insight into how to go about things.
-References
+
+*References
 2020. Banana Keyboard From MIT. [video] Available at: <https://www.youtube.com/watch?v=P91xcYScrMs> [Accessed 16 March 2020].
 
 Microsoft MakeCode. 2020. Make. [online] Available at: <https://makecode.microbit.org/projects/banana-keyboard/make> [Accessed 16 March 2020].
@@ -167,8 +168,9 @@ Saffer, D., 2020. Designing Microinteractions. Microinteractions as a Philosophy
 
 Sullivan, S., 2020. Prototyping Interactive Objects. pp.1-12.
 
-Technology Will Save Us. 2020. BBC Micro:Bit | Touch Arpeggiator | Free Platform For Coding, Making And Inventing | Make | Tech Will Save Us. [online] Available at: <https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator> [Accessed 16 March 2020].
+Technology Will Save Us. 2020. BBC Micro:Bit | Touch Arpeggiator | Free Platform For Coding, Making And Inventing | Make | Tech Will Save Us. [online] Available at: <https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator> [Accessed 16 March 2020].*
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
-An extension of this project I would love to try out is the human synth, where instead of bananas the circuit is completely made up of people with each person producing a different sound. This seems like even more of a novelty project than the banana keyboard but works in the same way. The project would make for a fun way to give people an introcution to how a corcuit works and basic BBC Microbit coding. There is a possibility I may in fact try this in my own time to get more of an in depth knowledge of the microbit and have some fun. There are a wide variety of similar expereiments like those listed in the MIT video, all would be a fun way to keep playing aorund with the microbit and become more expereinced with building. 
+
+*An extension of this project I would love to try out is the human synth, where instead of bananas the circuit is completely made up of people with each person producing a different sound. This seems like even more of a novelty project than the banana keyboard but works in the same way. The project would make for a fun way to give people an introcution to how a corcuit works and basic BBC Microbit coding. There is a possibility I may in fact try this in my own time to get more of an in depth knowledge of the microbit and have some fun. There are a wide variety of similar expereiments like those listed in the MIT video, all would be a fun way to keep playing aorund with the microbit and become more expereinced with building.*
